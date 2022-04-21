@@ -1,0 +1,244 @@
+@font-face {
+	font-family: 'Playfair Display';
+	src: url('font/PlayfairDisplay-Regular.ttf');
+}
+.satu{
+  background-color: rgb(114, 222, 57);
+  text-align: center;
+  background-size: 300px;
+  font-family: 'Playfair Display', serif;
+}
+.dua{
+	background-color: rgb(114, 222, 57);
+	text-align: center;
+
+	font-family: 'Playfair Display', serif;
+	font-size: 23px;
+	color: white;
+	text-shadow: 2px 3px 4px grey;
+	font-weight: bold;
+
+}
+.tiga{
+	background-color: rgb(114, 222, 57);
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	font-size: 14px;
+	color: white;
+	text-shadow: 2px 3px 4px grey;
+
+
+}
+h2{
+			color: white;
+			text-shadow: 3px 2px 5px grey;
+}
+h1{
+			color: white;
+			text-shadow: 3px 2px 5px grey;
+			font-size: 50px;
+}
+.daf{
+
+	width: 900px;
+	position: relative;
+	left : 400px;
+	text-align: left;
+}
+.kepala{
+  font-size: 60px;
+  text-shadow: 4px 4px 3px grey;
+  color: rgb(255, 255, 255);
+}
+.login
+{
+  font-size: 35px;
+	border: solid orange;
+  background-color: white;
+  border-radius: 180px;
+  padding: 35px;
+  float: left;
+  color: orange;
+  text-shadow: 1px 2px 3px grey;
+  position: absolute;
+  left : 650px;
+  box-shadow: 2px 6px 15px grey;
+
+}
+.daftar
+{
+  font-size: 35px;
+	border: solid orange;
+  background-color: white;
+  border-radius: 180px;
+  padding: 35px;
+  float: left;
+  color: orange;
+  text-shadow: 1px 2px 3px grey;
+  position: absolute;
+  left : 650px;
+  top: 410px;
+  box-shadow: 2px 6px 15px grey;
+
+
+}
+
+.kotak-menengah
+{
+	width: 250px;
+	border: solid orange;
+	border-radius: 15px;
+	box-shadow: 2px 3px 5px grey;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin : 15px 15px;
+	font-family: 'Playfair Display', serif;
+	border: none;
+	font-size: 22px;
+	background: white;
+	color: orange;
+}
+.kotak-area
+{
+	width: 500px;
+	border-radius: 15px;
+	box-shadow: 2px 3px 5px grey;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin : 15px 15px;
+	font-family: 'Playfair Display', serif;
+	border: none;
+	font-size: 22px;
+	background: white;
+	color: orange;
+}
+.kotak-ttl
+{
+	width: 120px;
+
+border: solid orange;
+
+	border-radius: 15px;
+	box-shadow: 2px 3px 5px grey;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin : 15px 15px;
+	font-family: 'Playfair Display', serif;
+	border: none;
+	font-size: 18px;
+	background: white;
+	color: orange;
+	text-align: center;
+}
+.but{
+	width: 120px;
+	border-radius: 15px;
+	box-shadow: 2px 3px 5px grey;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	margin : 15px 15px;
+	font-family: 'Playfair Display', serif;
+	border: none;
+	font-size: 18px;
+	background: white;
+	color: orange;
+	text-align: center;
+	text-shadow: 3px 2px 3px grey;
+	font-weight: bold;
+	border: solid orange;
+}
+.dua a{
+	text-decoration: none;
+}
+.fa{
+	font-size: 45px;
+	color: white;
+	text-shadow: 3px 4px 5px grey;
+	margin-bottom: 10px;
+}
+.table2{
+	border-collapse: collapse;
+	width:1400px auto;
+	margin: auto;
+border-color: grey;
+
+}
+.table2 td{
+
+	border:solid white;
+	padding: .6em;
+	background-color: orange;
+}
+.table2 th{
+	border: solid white;
+	padding: .6em;
+}
+#no{
+	background-color: rgb(57, 208, 222);
+	font-weight: bold;
+}
+
+
+.logout{
+	text-align: left;
+	margin-top:10px;
+	margin-bottom: 40px;
+
+}
+.logout a{
+	text-decoration:none;
+	text-align: left;
+	color: white;
+	border-radius: 20px;
+	box-shadow: 2px 4px 6px grey;
+}
+.log{
+	font-size: 24px;
+	background-color: orange;
+	padding: 10px;
+	border: solid white;
+}
+.kem{
+	text-align: left;
+	margin-top:10px;
+	margin-bottom: 40px;
+	position: absolute;
+}
+.kem a{
+	text-decoration:none;
+	text-align: left;
+	color: orange;
+	text-shadow: 1px 2px 3px grey;
+	border-radius: 20px;
+	box-shadow: 2px 4px 6px grey;
+}
+.bali{
+	font-size: 24px;
+	background-color: white;
+	padding: 10px;
+	border: solid orange;
+}
+.container{
+	text-align: center;
+}
+.back{
+	background-image: url("gambar/final.png");
+	background-size: 400px;
+
+
+}
+.mn{
+	background-color: white;
+	border-radius: 30px;
+	position: relative;
+	top: 370px;
+	box-shadow: 3px 4px 15px grey;
+}
